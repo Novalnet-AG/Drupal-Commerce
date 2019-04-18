@@ -24,7 +24,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
 
 ## More information
-Find more about Drupal Commerce module on: https://www.novalnet.de/site_pdf/IG-drupal_7.x_commerce_1.0-1.14_novalnet_11.1.1.pdf<br>
+Find more about Drupal Commerce module on: https://www.novalnet.de/site_pdf/IG-drupal_7.x_commerce_1.0-1.14_novalnet_11.1.2.pdf<br>
 To test our demo shop, please visit: https://drupalcommerce.novalnet.de
 
 ## Contact
