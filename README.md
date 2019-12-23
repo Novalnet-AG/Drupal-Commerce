@@ -1,44 +1,75 @@
-# NOVALNET PAYMENT MODULE FOR DRUPAL COMMERCE
-Novalnet payment module for Drupal Commerce simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the Drupal Commerce shop with top-quality range of services of the payment provider.
+# COMMERCE KICKSTART PAYMENT INTEGRATION BY NOVALNET
+The Drupal Commerce Payment Gateway by Novalnet provides a secure integration of payments and payment services for any Drupal Commerce shop. The shop owner will <a href= "https://www.novalnet.de/produkte"> optimize payment processing </a>, enriches customer experiences and improve conversion rates, all with one platform. One contract with Novalnet eliminates the need to establish multiple partnerships for accepting, managing and processing payments from checkout to collection. 
 
-Novalnet payment module for Drupal Commerce is available in <b>EN, DE</b>
+## Integration requirements
+Novalnet <a href= "https://www.novalnet.de/"> merchant account </a> is required for processing payments through the Drupal Commerce Payment Gateway from Novalnet. The module is available for the drupal 7.24-7.67 and commerce 1.0-1.15
 
-Support is available in: <b> EN, DE, FR, ES, IT, BS, CR, RU, HI, TA</b>
+Version in the following languages: EN & DE 
 
-Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
+Also drupal 8.6.4-8.7.8 and commerce_2.11-2.14 are supported by Novalnet. More information about these can be found <a href= "https://www.novalnet.de/modul/drupalcommerce-payment-module"> here </a>
 
-## Important functions for Drupal Commerce
-* Seamless and fast integration of the payment module
-* Easy configuration for all payment methods
-* One platform for all relevant payment types and related services
-* More than 50 fraud prevention modules integrated to prevent risk in real-time
-* Comprehensive affiliate system with automated split conversion of transaction on revenue sharing
-* Dynamic subscription and member management for recurring payments
-* Multilevel claims management with integrated handover to collection and various export functions for the Accounting
-* Automated e-mail notification function concerning payment status reports
-* Automated bookkeeping report in XML, SOAP, CSV, MT940
-* PCI compliant hosted page 
-* No PCI DSS certification required
-* Secure SSL- encoded gateways
-* Easy way of managing ‘on-hold’ transactions (cancel or capture) and refunds (partial, full)
-* Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
+## Key features 
+* Easy configuration of all 100 + payment methods (local + international) 
+* Monitoring, reporting & easy payouts for all payment methods
+* One PCI DSS certified payment platform for all payment services
+* Credit Card with 3D Secure & iframe integration (custom CSS configuration)
+* One-click shopping supported
+* Automatic fraud prevention solutions including more than 60 modules
+* Secure SSL encoded gateways
+* Setting a time limit for orders & automatic order cancellation when limit is exceeded
+* Confirmation & Cancellation of on-hold transactions
+* Refund options for various payment types
+* Possibility to change payment due dates for Prepayment & Invoices
+* Possibility to update due dates on payment slips for Barzahlen payment
+* Option to cancel subscriptions  in shop frontend and admin side
+* Responsive templates
 
-## More information
-Find more about Drupal Commerce module on: https://www.novalnet.de/site_pdf/IG-drupal_7.x_commerce_1.0-1.14_novalnet_11.1.2.pdf<br>
-To test our demo shop, please visit: https://drupalcommerce.novalnet.de
+<a href= "https://www.novalnet.de/produkte"> Overview of all features can be found here. </a>
 
-## Contact
+For detailed documentation and technical inquiries, please contact <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
+
+## Integrated payment types
+* Direct Debit SEPA
+* Credit Card (3D Secure & non 3D Secure)
+* Invoice
+* Prepayment
+* Barzahlen
+* Instant Bank Transfer
+* PayPal
+* iDEAL
+* eps
+* giropay
+* Przelewy24
+* Direct Debit SEPA with payment guarantee
+* Invoice with payment guarantee
+
+<a href= "https://www.novalnet.de/zahlungsabwicklung"> More details about each payment type can be found here</a> please contact: <a 
+href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20 for more information and additional inquiries..
+
+## Drupal Commerce Payment Integration steps
+Follow these steps to install the Drupal Commerce Payment Integration by Novalnet:
+
+1. Get the Drupal Commerce Payment Module & detailed documentation by <a href=  "https://www.novalnet.de/kontakt/sales"> contacting us </a>
+2. Install the Module to your Drupal Commerce shop
+3. Configure Product Activation Key in the shop admin panel
+4. Install & configure the preferred payment types in your shop admin panel
+
+## License
+See our License Agreement at: <a href= "https://www.novalnet.de/payment-plugins/kostenlos/lizenz"> https://www.novalnet.de/payment-plugins/kostenlos/lizenz </a>
+
+## Documentation & Support
+
+For more information about the Drupal Commerce Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de or +49 89 9230683-20
+
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
 Gutenbergstr. 2<br>
 85737 Ismaning<br>
 Deutschland<br>
-E-mail: sales@novalnet.de<br>
-Tel: +49 89 9230683-20<br>
-Web: www.novalnet.de
+Web: <a href= "https://www.novalnet.de/"> www.novalnet.de </a>
 
-## License
-See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz
+## Novalnet AG
 
-## About Novalnet AG
-Novalnet AG is a leading financial services institution offering online gateways for processing of online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment modules for all major shop systems as well as for self-programmed websites. The product and service portfolio is very comprehensive and includes all commonly used payment methods of online payment. These include a variety of intelligent fraud prevention modules, free technical support, an automated accounts receivable management system, a comprehensive subscription and membership management, as well as a very useful affiliate program. The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge and to work together with them hand in hand to increase their revenue and the quality of their online payments.
+Novalnet AG is a leading <a href="https://www.novalnet.de/zahlungsinstitut"> financial services institution </a> offering payment gateways for processing online payments. Operating in the market as a full payment service provider Novalnet AG provides online merchants user-friendly payment integration with all major shop systems and self-programmed sites.
+
+Our SaaS engine is <a href="https://www.novalnet.de/pci-dss-zertifizierung"> PCI DSS certified </a> and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. marketplaces, affiliate programs etc.) etc.
