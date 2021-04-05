@@ -9,7 +9,7 @@ Version in the following languages: EN & DE
 Also drupal 8.6.4-8.9.13 and commerce_2.11-2.14 are supported by Novalnet. 
 More information about these can be found <a href= "https://www.novalnet.de/modul/drupalcommerce-payment-module"> here </a>
 
-## Key features 
+## Key features of Drupal Commerce payment module
 * Easy configuration of all 100 + payment methods (local + international) 
 * Monitoring, reporting & easy payouts for all payment methods
 * One PCI DSS certified payment platform for all payment services
@@ -27,9 +27,9 @@ More information about these can be found <a href= "https://www.novalnet.de/modu
 
 Overview of all features can be found <a href= "https://www.novalnet.de/produkte">here</a>.
 
-For detailed documentation and technical inquiries, please contact <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
+For detailed documentation and technical inquiries, please contact <a href="mailto:sales@novalnet.de">sales@novalnet.de </a>
 
-## Integrated payment types
+## Integrated payment types for Drupal Commerce
 * Direct Debit SEPA
 * Credit Card (3D Secure & non 3D Secure)
 * Invoice
@@ -45,7 +45,7 @@ For detailed documentation and technical inquiries, please contact <a href="mail
 * Invoice with payment guarantee
 
 More details about each payment type can be found <a href= "https://www.novalnet.de/zahlungsabwicklung">here</a>. Please contact: <a 
-href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20 for more information and additional inquiries..
+href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20 for more information and additional inquiries.
 
 ## Drupal Commerce Payment Integration steps
 Follow these steps to install the Drupal Commerce Payment Integration by Novalnet:
