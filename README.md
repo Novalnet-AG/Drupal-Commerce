@@ -2,11 +2,11 @@
 The Drupal Commerce Payment Gateway by Novalnet provides a secure integration of payments and payment services for any Drupal Commerce shop. The shop owner will <a href= "https://www.novalnet.de/produkte"> automates payment processing </a>, enriches customer experiences and improve conversion rates, all with one platform. One contract with Novalnet eliminates the need to establish multiple partnerships for accepting, managing and processing payments from checkout to collection. 
 
 ## Integration requirements
-Novalnet <a href= "https://www.novalnet.de/"> merchant account </a> is required for processing payments through the Drupal Commerce Payment Gateway from Novalnet. The module is available for the drupal 7.24-7.67 and commerce 1.0-1.15
+Novalnet <a href= "https://www.novalnet.de/"> merchant account </a> is required for processing payments through the Drupal Commerce Payment Gateway from Novalnet. The module is available for the drupal 7.24-7.78 and commerce 1.0-1.15
 
 Version in the following languages: EN & DE 
 
-Also drupal 8.6.4-8.7.8 and commerce_2.11-2.14 are supported by Novalnet. 
+Also drupal 8.6.4-8.9.13 and commerce_2.11-2.14 are supported by Novalnet. 
 More information about these can be found <a href= "https://www.novalnet.de/modul/drupalcommerce-payment-module"> here </a>
 
 ## Key features 
@@ -25,7 +25,7 @@ More information about these can be found <a href= "https://www.novalnet.de/modu
 * Option to cancel subscriptions  in shop frontend and admin side
 * Responsive templates
 
-<a href= "https://www.novalnet.de/produkte"> Overview of all features can be found here. </a>
+Overview of all features can be found <a href= "https://www.novalnet.de/produkte">here</a>.
 
 For detailed documentation and technical inquiries, please contact <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
 
@@ -44,7 +44,7 @@ For detailed documentation and technical inquiries, please contact <a href="mail
 * Direct Debit SEPA with payment guarantee
 * Invoice with payment guarantee
 
-<a href= "https://www.novalnet.de/zahlungsabwicklung"> More details about each payment type can be found here.</a> Please contact: <a 
+More details about each payment type can be found <a href= "https://www.novalnet.de/zahlungsabwicklung">here</a>. Please contact: <a 
 href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20 for more information and additional inquiries..
 
 ## Drupal Commerce Payment Integration steps
@@ -56,7 +56,7 @@ Follow these steps to install the Drupal Commerce Payment Integration by Novalne
 4. Install & configure the preferred payment types in your shop admin panel
 
 ## License
-See our License Agreement at: <a href= "https://www.novalnet.de/payment-plugins/kostenlos/lizenz"> https://www.novalnet.de/payment-plugins/kostenlos/lizenz </a>
+See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license </a>
 
 ## Documentation & Support
 
